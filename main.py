@@ -11,7 +11,7 @@ def main():
     range_start = 2956718845
     range_end = 3004647438
     json_list = [] #this list will have a list of all the dictionaries. Each index contains info about a match (rank, patch, game length)
-    for x in range(range_start,2956718865):
+    for x in range(range_start,range_end):
         append_item = jsonData.find_matches(x,key)
         if append_item != None:
             json_list.append(append_item)
