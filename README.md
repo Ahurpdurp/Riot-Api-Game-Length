@@ -5,3 +5,5 @@ I'm currently testing out using the RIOT API for fun. This script (currently wor
 
 
 Make sure to change the "key" variable to whatever your api key currently is. The one in the file is expired. Currently, patches 9.1 through 9.6 are analyzed. You can add patch numbers to the patches list to change the scope. Make sure to change the "range_end" variable so that it analyzes more games (ex. if patch 9.7 is added, test that the new range_end actually analyzes matches in patch 9.7). 
+
+The Json files you see contain all the extracted data. The current things are just examples. Ideally, we'd want more than 100,000 matches for a good sample size. 
