@@ -11,7 +11,7 @@ def main():
     range_start = 2956718845
     range_end = 3004647438
     json_list = [] #this list will have a list of all the dictionaries. Each index contains info about a match (rank, patch, game length)
-    for x in range(range_start,2956718885):
+    for x in range(range_start,2956718865):
         append_item = jsonData.find_matches(x,key)
         if append_item != None:
             json_list.append(append_item)
@@ -21,7 +21,8 @@ def main():
         json.dump(final_list, data, indent= True) #final_list has all the matches, add this to the json.
     #this gets you the list of matches you can test over...
     #iterate through the json to get the matchIds, game duration, rank
-    averagegamelength.main() #creates a new json file and uploades average game length.
+    patches = ['9.1','9.2','9.3','9.4','9.5','9.6'] #you can change this value
+    averagegamelength.patch_list(patches) #creates a new json file and uploades average game length.
     print("Matches have been analyzed")
 
 

@@ -32,8 +32,7 @@ def getAverageLength(patch_num):
 
     return final_log
 
-def main():
-    patches = ['9.1','9.2','9.3','9.4','9.5','9.6']
+def patch_list(patches):
     patch_log = {} #contains info for each patch
     patch_log['patches'] = []
     for x in patches:
@@ -42,5 +41,3 @@ def main():
         json.dump(patch_log, data, indent= True) #final_list has all the matches, add this to the json.
 
 
-if __name__ == '__main__':
-    main()
