@@ -1,0 +1,274 @@
+{
+ "patches": [
+  {
+   "patch": "9.1",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "47:42",
+     "games_analyzed": 1
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "23:38",
+     "games_analyzed": 2
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "28:10",
+     "games_analyzed": 2
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "20:41",
+     "games_analyzed": 1
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "16:08",
+     "games_analyzed": 1
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  },
+  {
+   "patch": "9.2",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  },
+  {
+   "patch": "9.3",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  },
+  {
+   "patch": "9.4",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  },
+  {
+   "patch": "9.5",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  },
+  {
+   "patch": "9.6",
+   "ranks": [
+    {
+     "rank": "IRON",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "BRONZE",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "SILVER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "GOLD",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "PLATINUM",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "DIAMOND",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "MASTER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    },
+    {
+     "rank": "CHALLENGER",
+     "game_length": "No Games Analyzed",
+     "games_analyzed": 0
+    }
+   ]
+  }
+ ]
+}
