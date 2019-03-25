@@ -6,12 +6,13 @@
 import jsonData, getplayerrank,json, averagegamelength
 
 def main():
-    key = "RGAPI-0281e8af-6f34-4bc1-95fc-df4d00221e30"
+    key = "RGAPI-57c2caae-4e3c-4e10-87c5-d8ab112a69e7"
     #starting point: 2996181980
-    range_start = 2956718845
-    range_end = 3004647438
+    range_start = 2950608847
+    range_end = 3004647440
     json_list = [] #this list will have a list of all the dictionaries. Each index contains info about a match (rank, patch, game length)
-    for x in range(range_start,range_end):
+    for x in range(range_start,range_end,10000): #you can change the step. but if you leave it at 10000 you can just increase range_start by 
+        #1 and it'll go through thousands of new ID's. 
         append_item = jsonData.find_matches(x,key)
         if append_item != None:
             json_list.append(append_item)
